@@ -1,6 +1,7 @@
 RENCANA KONTEN UDAWAK
 
 -Javascrip
+  *ES6
 -PHP framework
 -Interview
 -Vlog
